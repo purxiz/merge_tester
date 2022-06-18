@@ -1,5 +1,6 @@
 hello
 I am a text file
 I might need to be updated at some point
-Their our probably multipler errors in me
+There are probably multipler errors in me
 That are in dire need of being fxed
+Maybe I even have conflicting changes now :D
