@@ -1,4 +1,4 @@
-hello
+goodbye
 I am a text file
 I might need to be updated at some point, but I really hope I don't have to be re-merged each time
 There are probably multipler errors in me
